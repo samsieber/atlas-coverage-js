@@ -1,6 +1,6 @@
 {
   "name": "atlas-coverage",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Postprocesses puppeteer coverage data to project coverage data on minified js back to the source files",
   "main": "index.js",
   "repository": "https://github.com/samsieber/atlas-coverage-js",
