@@ -1,11 +1,17 @@
 {
   "name": "atlas-coverage",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "description": "Postprocesses puppeteer coverage data to project coverage data on minified js back to the source files",
   "main": "index.js",
   "repository": "https://github.com/samsieber/atlas-coverage-js",
   "author": "Sam Sieber <swsieber@gmail.com>",
   "license": "MIT",
+  "keywords": [
+    "puppeteer",
+    "minified",
+    "coverage",
+    "testing"
+  ],
   "dependencies": {
     "follow-redirects": "^1.5.9",
     "targz": "^1.0.1"
